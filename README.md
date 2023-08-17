@@ -12,6 +12,7 @@ Use the "Table of Contents" menu in the top-left corner to explore the list.
 
 ### Frontend
 - [Frontend Developers Discord](https://discord.com/invite/kx7pk6J) - Friendly creative web developer Discord community.
+- \
 
 ### Help / Courses
 - [Codecademy Discord](https://discord.gg/codecademy) - The official Codecademy Discord community.
